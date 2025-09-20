@@ -1,7 +1,7 @@
 <!Doctype html> 
 <html> 
 <head> 
-<title>html</title> 
+<title>heading tags</title> 
 </head> 
 <body> 
 <h1>hello github</h1> 
@@ -12,3 +12,4 @@
 <h6>hello github</h6> 
 </body> 
 </html> 
+
